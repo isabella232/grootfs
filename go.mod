@@ -45,7 +45,7 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/st3v/glager v0.3.0
 	github.com/tscolari/lagregator v0.0.0-20161103133944-b0fb43b01861
-	github.com/urfave/cli/v2 v2.2.0
+	github.com/urfave/cli/v2 v2.3.0
 	github.com/ventu-io/go-shortid v0.0.0-20160104014424-6c56cef5189c
 	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10 // indirect
 	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
